@@ -61,15 +61,15 @@ window.onload = function() {
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
-    twitter: null,
-    github: null,
-    linkedin: null,
-    instagram: null,
-    name: null,
-    lastName: null,
-    role: null,
-    country: null,
-    city: null
+    twitter: "twitter",
+    github: "github",
+    linkedin: "linkedin",
+    instagram: "instagram",
+    name: "Name",
+    lastName: "& Last Name",
+    role: "Role",
+    country: "Country",
+    city: "City"
   };
 
   // ${variables.}
